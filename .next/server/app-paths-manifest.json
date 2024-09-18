@@ -1,9 +1,0 @@
-{
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/page": "app/page.js",
-  "/pages/Activities/page": "app/pages/Activities/page.js",
-  "/pages/Gallery/page": "app/pages/Gallery/page.js",
-  "/pages/Projects/page": "app/pages/Projects/page.js",
-  "/pages/Blogs/page": "app/pages/Blogs/page.js",
-  "/pages/YuriNight/page": "app/pages/YuriNight/page.js"
-}
